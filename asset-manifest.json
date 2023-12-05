@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/comp3170-timed/static/css/main.c30ee3c2.css",
+    "main.js": "/comp3170-timed/static/js/main.08c8bc95.js",
+    "index.html": "/comp3170-timed/index.html",
+    "main.c30ee3c2.css.map": "/comp3170-timed/static/css/main.c30ee3c2.css.map",
+    "main.08c8bc95.js.map": "/comp3170-timed/static/js/main.08c8bc95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c30ee3c2.css",
+    "static/js/main.08c8bc95.js"
+  ]
+}
