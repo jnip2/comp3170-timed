@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/comp3170-lab05/static/css/main.1a7ea99d.css",
+    "main.js": "/comp3170-lab05/static/js/main.416b1796.js",
+    "index.html": "/comp3170-lab05/index.html",
+    "main.1a7ea99d.css.map": "/comp3170-lab05/static/css/main.1a7ea99d.css.map",
+    "main.416b1796.js.map": "/comp3170-lab05/static/js/main.416b1796.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a7ea99d.css",
+    "static/js/main.416b1796.js"
+  ]
+}

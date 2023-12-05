@@ -1,0 +1,79 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.taskContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 50rem;
+  height: 2rem;
+  align-items: center;
+}
+
+.taskInfo {
+  display: flex;
+  gap: 2rem;
+}
+
+.done {
+  color: green;
+}
+
+.notDone {
+  color: red;
+  font-weight: bold;
+}
+
+.listContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.toDoContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.form {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.input {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  width: 5rem;
+}
+
+.editDeleteContainer {
+  display: flex;
+  gap: 2rem;
+}
+
+.editBox {
+  display: flex;
+  gap: 2rem;
+}
+
+.editButtonsContainer {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.toolBarContainer {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
